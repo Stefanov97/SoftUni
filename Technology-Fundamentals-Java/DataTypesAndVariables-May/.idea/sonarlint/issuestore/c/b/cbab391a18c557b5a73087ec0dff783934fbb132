@@ -1,0 +1,45 @@
+
+1squid:S1220""Move this file to a named package.
+Msquid:S1066<"/Merge this if statement with the enclosing one.(¯×Á—8«ßí´³-
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ÐØ¯ÿùÿÿÿÿ8Üíè´³-
+Rsquid:S1066+"/Merge this if statement with the enclosing one.(ÿ‘¤½úÿÿÿÿ8³¦í´³-
+\
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ÏÑæÿÿÿÿÿ8Üíè´³-
+nsquid:S11924"KDefine a constant instead of duplicating this literal "No matches" 4 times.(ŠÌïÚþÿÿÿÿ8Üíè´³-
+\
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ô¿¹¶þÿÿÿÿ8Ú£ãµ³-
+Rsquid:S1066M"/Merge this if statement with the enclosing one.(öÁ’Ëþÿÿÿÿ8ÌËî´³-
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ŠÌïÚþÿÿÿÿ8Üíè´³-
+\
+squid:S106Ý"9Replace this use of System.out or System.err by a logger.(µŸÞ…þÿÿÿÿ8„æÄµ³-
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(‚êÝÆ8Üíè´³-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ŠÑšÿÿÿÿÿ8Üíè´³-
+W
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(¸øÙš8ë×ãµ³-
+?squid:S1643"Use a StringBuilder instead.(”†ï›ûÿÿÿÿ8Üíè´³-
+\"squid:SwitchLastCaseIsDefaultCheckp""Add a default case to this switch.(ù³¨Ðûÿÿÿÿ8Üíè´³-
+:squid:S1643
+"Use a StringBuilder instead.(þ¦‹›8Üíè´³-
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(îó‘”ùÿÿÿÿ8Üíè´³-
+W
+squid:S106é"9Replace this use of System.out or System.err by a logger.(Û®÷â8„æÄµ³-
+Lsquid:S1066^"/Merge this if statement with the enclosing one.(»ÌÔ8Îƒï´³-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Ð…Ï8º›é´³-
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ŠÌïÚþÿÿÿÿ8Üíè´³-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ñ½Å™8Üíè´³-
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ŠÌïÚþÿÿÿÿ8Üíè´³-
+psquid:S3776j"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Çµí‘8Üíè´³-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Ë…û™8Üíè´³-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ŠÌïÚþÿÿÿÿ8Üíè´³-
+W
+squid:S106á"9Replace this use of System.out or System.err by a logger.(¸øÙš8„—Úµ³-

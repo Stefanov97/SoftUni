@@ -1,0 +1,4 @@
+
+Wsquid:S1854	"9Remove this useless assignment to local variable "input".(÷ÁÃþ8²ÍŠ­®-
+Hsquid:S1481	"*Remove this unused "input" local variable.(÷ÁÃþ8²ÍŠ­®-
+1squid:S1220""Move this file to a named package.
