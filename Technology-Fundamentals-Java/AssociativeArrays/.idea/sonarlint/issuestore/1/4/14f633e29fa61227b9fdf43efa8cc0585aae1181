@@ -1,0 +1,10 @@
+
+Qsquid:S1481".Remove this unused "firstName" local variable.(š¬¶€ùÿÿÿÿ8µ¦Áı½-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(úüÙƒ8Åœš€¾-
+Osquid:S16021",Remove useless curly braces around statement(îğî´øÿÿÿÿ8Åœš€¾-
+asquid:S1854 ">Remove this useless assignment to local variable "secondName".(¨ ûùÿÿÿÿ8µ¦Áı½-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Ó±Æ¥8Åœš€¾-
+Rsquid:S1481 "/Remove this unused "secondName" local variable.(¨ ûùÿÿÿÿ8µ¦Áı½-
+`squid:S1854"=Remove this useless assignment to local variable "firstName".(š¬¶€ùÿÿÿÿ8µ¦Áı½-

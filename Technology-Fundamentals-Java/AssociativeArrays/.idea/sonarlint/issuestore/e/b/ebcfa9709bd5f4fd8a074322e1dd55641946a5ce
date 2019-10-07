@@ -1,0 +1,16 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òµÆ½8–¥É«À-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸š…­8Õ Í«À-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(é„Æðüÿÿÿÿ8ôƒÔ«À-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(üôÑ§þÿÿÿÿ8ªÖ×ªÀ-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(öÔ©Íøÿÿÿÿ8ÿ‚ÐªÀ-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(øï­îýÿÿÿÿ8ÑŠÔªÀ-
+_squid:UnusedPrivateMethod,".Remove this unused private "findValid" method.(†×æ•ûÿÿÿÿ8–¥É«À-
+_squid:UnusedPrivateMethod6".Remove this unused private "getResult" method.(©•ñíûÿÿÿÿ8ðú¡«À-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­£ÁÁ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿»áŽþÿÿÿÿ8¶ÅÇ«À-
+Ysquid:UnusedPrivateMethod@"-Remove this unused private "getValid" method.(²§Õ8ðú¡«À-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«‰°²8”ùÔ«À-

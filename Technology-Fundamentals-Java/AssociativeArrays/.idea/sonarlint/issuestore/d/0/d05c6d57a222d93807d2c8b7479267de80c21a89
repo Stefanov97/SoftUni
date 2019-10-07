@@ -1,0 +1,10 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8©¦¼Û½-
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¿¦Éˆıÿÿÿÿ8ª½Ü×½-
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Öš…ñşÿÿÿÿ8¥âªØ½-
+V
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ôÉÄ8Åí§Ø½-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(šÀ‚€ûÿÿÿÿ8¢Øœ×½-
