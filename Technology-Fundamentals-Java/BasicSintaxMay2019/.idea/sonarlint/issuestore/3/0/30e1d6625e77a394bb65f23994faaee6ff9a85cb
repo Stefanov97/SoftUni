@@ -1,0 +1,6 @@
+
+?squid:S1643"Use a StringBuilder instead.(Ç±þžüÿÿÿÿ8Ë…º«¬-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÚÖŽ®
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ÞÁÏÿÿÿÿÿ8Êåº«¬-
+1squid:S1220""Move this file to a named package.

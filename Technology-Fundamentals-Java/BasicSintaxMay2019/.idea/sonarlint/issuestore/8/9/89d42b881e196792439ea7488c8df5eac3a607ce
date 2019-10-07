@@ -1,0 +1,8 @@
+
+1squid:S1220""Move this file to a named package.
+Vsquid:UselessParenthesesCheck"!Remove these useless parentheses.(Ùç¾îıÿÿÿÿ8Ò”Û‹¬-
+csquid:S2184"@Cast one of the operands of this integer division to a "double".(Ùç¾îıÿÿÿÿ8Ò”Û‹¬-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹öşò8 °‹¬-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¥Ã©8 °‹¬-
