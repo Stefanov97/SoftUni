@@ -1,0 +1,39 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8¤ÅÎ¶³-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8Œ¼µ¶³-
+Rsquid:S1066/"/Merge this if statement with the enclosing one.(ÿ‘¤½úÿÿÿÿ8Œ¼µ¶³-
+nsquid:S11928"KDefine a constant instead of duplicating this literal "No matches" 4 times.(ŠÌïÚşÿÿÿÿ8Œ¼µ¶³-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¿¹¶şÿÿÿÿ8¤ÅÎ¶³-
+Lsquid:S1066b"/Merge this if statement with the enclosing one.(»ÌÔ8Œ¼µ¶³-
+Msquid:S1066@"/Merge this if statement with the enclosing one.(¯×Á—8Œ¼µ¶³-
+Rsquid:S1066Q"/Merge this if statement with the enclosing one.(öÁ’Ëşÿÿÿÿ8Œ¼µ¶³-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ñ½Å™8Œ¼µ¶³-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ŠÑšÿÿÿÿÿ8Œ¼µ¶³-
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(‚êİÆ8Œ¼µ¶³-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸øÙš8¤ÅÎ¶³-
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Ë…û™8Œ¼µ¶³-
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¸øÙš8¤ÅÎ¶³-
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8Œ¼µ¶³-
+[
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8Œ¼µ¶³-
+1squid:S1220""Move this file to a named package.
+psquid:S3776n"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Çµí‘8Œ¼µ¶³-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÑæÿÿÿÿÿ8Œ¼µ¶³-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8Œ¼µ¶³-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û®÷â8¤ÅÎ¶³-
+[
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ĞØ¯ÿùÿÿÿÿ8Œ¼µ¶³-
+\"squid:SwitchLastCaseIsDefaultCheckt""Add a default case to this switch.(ù³¨Ğûÿÿÿÿ8Œ¼µ¶³-

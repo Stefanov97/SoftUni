@@ -1,0 +1,11 @@
+
+1squid:S1220""Move this file to a named package.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ð”¿·ùÿÿÿÿ8¿ö—ê²-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(•¿±¯8¿ö—ê²-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤Øžµ8¿ö—ê²-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãØˆ”8¿ö—ê²-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ð‰£¬øÿÿÿÿ8¿ö—ê²-

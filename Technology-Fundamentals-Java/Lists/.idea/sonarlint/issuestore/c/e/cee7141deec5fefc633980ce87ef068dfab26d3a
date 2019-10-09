@@ -1,0 +1,6 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÓþ³úÿÿÿÿ8Û ­¥µ-
+‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯8—ˆ«¥µ-
+1squid:S1220""Move this file to a named package.
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8í”×¤µ-

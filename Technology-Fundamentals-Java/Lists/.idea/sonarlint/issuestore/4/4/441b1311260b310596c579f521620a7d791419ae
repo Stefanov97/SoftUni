@@ -1,0 +1,12 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Éª¼Óüÿÿÿÿ8½Ç€Ù¶-
+:squid:S1643S"Use a StringBuilder instead.(®–¸±8½Ç€Ù¶-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Çµí‘8½Ç€Ù¶-
+:squid:S1643?"Use a StringBuilder instead.(®–¸±8½Ç€Ù¶-
+:squid:S1643M"Use a StringBuilder instead.(®–¸±8½Ç€Ù¶-
+1squid:S1220""Move this file to a named package.
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(šýÏÕüÿÿÿÿ8½Ç€Ù¶-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(žÚº´8½Ç€Ù¶-
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ŒÜ®Éþÿÿÿÿ8½Ç€Ù¶-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ŒÜ®Éþÿÿÿÿ8½Ç€Ù¶-

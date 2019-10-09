@@ -1,0 +1,51 @@
+
+1squid:S1220""Move this file to a named package.
+W
+squid:S106§"9Replace this use of System.out or System.err by a logger.(‚êİÆ8äÂûœ³-
+\
+squid:S106©"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8äÂûœ³-
+?squid:S1643"Use a StringBuilder instead.(˜ï›óùÿÿÿÿ8š°ú³-
+:squid:S1643$"Use a StringBuilder instead.(¾•Û›8š°ú³-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(šËù˜üÿÿÿÿ8š°ú³-
+osquid:S1192•"KDefine a constant instead of duplicating this literal "No matches" 4 times.(ŠÌïÚşÿÿÿÿ8äÂûœ³-
+\
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ĞØ¯ÿùÿÿÿÿ8äÂûœ³-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¦Èµ»ıÿÿÿÿ8š°ú³-
+\
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8äÂûœ³-
+usquid:S37762"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÔÈµµûÿÿÿÿ8ö„Û³-
+?squid:S1643S"Use a StringBuilder instead.(Ì†×Ëøÿÿÿÿ8ö„Û³-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(¦Èµ»ıÿÿÿÿ8ö„Û³-
+\
+squid:S106»"9Replace this use of System.out or System.err by a logger.(ŠÑšÿÿÿÿÿ8äÂûœ³-
+rsquid:S3776Õ"SRefactor this method to reduce its Cognitive Complexity from 136 to the 15 allowed.(Çµí‘8äÂûœ³-
+\
+squid:S106»"9Replace this use of System.out or System.err by a logger.(îó‘”ùÿÿÿÿ8äÂûœ³-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(åı‘ôûÿÿÿÿ8š°ú³-
+?squid:S1643<"Use a StringBuilder instead.(Ÿğƒùÿÿÿÿ8ö„Û³-
+:squid:S16438"Use a StringBuilder instead.(ÉÌıæ8ö„Û³-
+?squid:S1643"Use a StringBuilder instead.(€âšÍúÿÿÿÿ8š°ú³-
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(šËù˜üÿÿÿÿ8ö„Û³-
+:squid:S1643"Use a StringBuilder instead.(Á‰Ë»8š°ú³-
+:squid:S1643g"Use a StringBuilder instead.(ş¦‹›8äÂûœ³-
+\
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(ÏÑæÿÿÿÿÿ8äÂûœ³-
+?squid:S1643e"Use a StringBuilder instead.(”†ï›ûÿÿÿÿ8äÂûœ³-
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Ë…û™8äÂûœ³-
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8äÂûœ³-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´8ˆÓıœ³-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ùËØ¢8š°ú³-
+\
+squid:S106½"9Replace this use of System.out or System.err by a logger.(ŠÌïÚşÿÿÿÿ8äÂûœ³-
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(¸Ñƒ8ö„Û³-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ½Å™8äÂûœ³-
+:squid:S1643N"Use a StringBuilder instead.(¤»êÊ8ö„Û³-

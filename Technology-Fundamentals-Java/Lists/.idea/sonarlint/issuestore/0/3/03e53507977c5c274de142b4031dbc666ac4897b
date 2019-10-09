@@ -1,0 +1,11 @@
+
+:squid:S1643?"Use a StringBuilder instead.(®–¸±8¹ğÙ¶-
+:squid:S16431"Use a StringBuilder instead.(®–¸±8¹ğÙ¶-
+Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ
+:squid:S1643E"Use a StringBuilder instead.(®–¸±8¹ğÙ¶-
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ĞÌûı8µû¤Ì¶-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Çµí‘8®³Ê¶-
+1squid:S1220""Move this file to a named package.
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ

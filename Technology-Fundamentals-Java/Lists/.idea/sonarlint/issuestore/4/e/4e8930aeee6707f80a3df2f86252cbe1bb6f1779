@@ -1,0 +1,8 @@
+
+Usquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¸¶¿î
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.( ð½‹ýÿÿÿÿ
+N
+squid:S106!"9Replace this use of System.out or System.err by a logger.(§×È!
+Usquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¸¶¿î
+1squid:S1220""Move this file to a named package.

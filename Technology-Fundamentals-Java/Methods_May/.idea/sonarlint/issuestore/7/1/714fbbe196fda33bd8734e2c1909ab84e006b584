@@ -1,0 +1,13 @@
+
+_squid:S1854%"<Remove this useless assignment to local variable "isString".(¡şº¤øÿÿÿÿ8˜ÒÙå²-
+_squid:S1854*"<Remove this useless assignment to local variable "isString".(¡şº¤øÿÿÿÿ8ÿ¸Úå²-
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ë‡¤ãøÿÿÿÿ8ÛÙáå²-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(â¼Ä³ûÿÿÿÿ8–üóå²-
+1squid:S1220""Move this file to a named package.
+W"squid:SwitchLastCaseIsDefaultCheck!""Add a default case to this switch.(ÜŸ•8›±å²-
+Jsquid:S1481 "-Remove this unused "isString" local variable.(Í˜òM8ÒÏØå²-
+isquid:S1301!"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•8›±å²-
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÌĞ²éÿÿÿÿÿ8¤ñàå²-

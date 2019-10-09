@@ -1,0 +1,13 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÛýÓüÿÿÿÿ8³ùÕˆ´-
+=squid:S1659"Declare "d" on a separate line.(·Ò¬ð8å ’ˆ´-
+=squid:S1659"Declare "c" on a separate line.(·Ò¬ð8å ’ˆ´-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(â×êðúÿÿÿÿ8‹ûÔˆ´-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¢ÓÂ8å ’ˆ´-
+=squid:S1659"Declare "b" on a separate line.(·Ò¬ð8å ’ˆ´-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áâ‹‰8¶ÖÔˆ´-
+1squid:S1220""Move this file to a named package.
