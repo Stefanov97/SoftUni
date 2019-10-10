@@ -1,0 +1,7 @@
+
+Nsquid:S1481"+Remove this unused "result" local variable.(ö¸¾ßùÿÿÿÿ8ÂÍ«±¾-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¥Ÿžüÿÿÿÿ8ñá§±¾-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ›øÚúÿÿÿÿ8¤“«±¾-
+]squid:S1854":Remove this useless assignment to local variable "result".(ö¸¾ßùÿÿÿÿ8ÂÍ«±¾-
