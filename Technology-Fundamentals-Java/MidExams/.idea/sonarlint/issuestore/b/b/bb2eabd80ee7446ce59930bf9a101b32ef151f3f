@@ -1,0 +1,35 @@
+
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8›€¹µ»-
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ôö´ùÿÿÿÿ8˜˜—µ»-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8øÅ°µ»-
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ñƒóï8— µ»-
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ïŠ´Â8Äö«µ»-
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(Ñ÷´íûÿÿÿÿ8¼’·µ»-
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(î‰Šåşÿÿÿÿ8àã—µ»-
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8£À±µ»-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8æóÿ´»-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ñƒóï8¯»¢µ»-
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Ôö´ùÿÿÿÿ8âû™µ»-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(Çµí‘8Ôà‘µ»-
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ïŠ´Â8ß¯µ»-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(‚è©ãùÿÿÿÿ8¯»¢µ»-
+Psquid:S1199"-Extract this nested code block into a method.(¸šâèıÿÿÿÿ8ôì‡µ»-
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(‚è©ãùÿÿÿÿ8•ş µ»-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ñ§¹µ»-
+Psquid:S1199"-Extract this nested code block into a method.(‹Ì²ªøÿÿÿÿ8ÛÄ‹µ»-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(î‰Šåşÿÿÿÿ8âû™µ»-

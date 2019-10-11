@@ -1,0 +1,7 @@
+
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ä˜Ï8¤Å¨ò·-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(èø©”8ûÿÒò·-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘8ûé»ò·-
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ý„‘€ûÿÿÿÿ8À‘Õò·-

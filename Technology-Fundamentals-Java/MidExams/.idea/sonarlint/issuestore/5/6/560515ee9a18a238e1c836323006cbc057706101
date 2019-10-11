@@ -1,0 +1,8 @@
+
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8¼–÷¸º-
+Ksquid:S1199"-Extract this nested code block into a method.(ÉÎË8–ğëáº-
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8›Æğáº-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(îìÜ•ùÿÿÿÿ8ŸÓ¢¹º-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Çµí‘8ÙÊ˜¹º-

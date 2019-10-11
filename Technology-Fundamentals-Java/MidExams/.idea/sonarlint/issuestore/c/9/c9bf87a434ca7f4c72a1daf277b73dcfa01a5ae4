@@ -1,0 +1,24 @@
+
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÈÌËùÿÿÿÿ8ãí¤·-
+:squid:S1643"Use a StringBuilder instead.(ü–éÿ8ªñ­£·-
+U
+squid:S106("9Replace this use of System.out or System.err by a logger.(Šı
+8îÊØ£·-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(«÷Âºúÿÿÿÿ8Ãò£·-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8é‚ïßÛ-
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ıÈĞÿÿÿÿÿ8•û£·-
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(öÏ‹8¨×¤·-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÇÎµù8şŞî£·-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8¬¤·-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(•˜¶üÿÿÿÿ8é‚ïßÛ-
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(±€¤8é‚ïßÛ-
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(†ßñ®øÿÿÿÿ8 ³¤·-

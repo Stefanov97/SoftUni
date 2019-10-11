@@ -1,0 +1,15 @@
+
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ï§ÎÊøÿÿÿÿ8àğîÿ¶-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(àÁŒİ8Ò¡ïÿ¶-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8÷µ€€·-
+jsquid:UselessImportCheck"?Remove this unused import 'java.util.function.DoublePredicate'.(ùì¥¼8áÆÃÿ¶-
+:squid:S1643"Use a StringBuilder instead.(äÕ–Ó8áø¶ÿ¶-
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ÜŸ•8¢†Çÿ¶-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(¹†Ğèÿÿÿÿÿ8Ù¼“€·-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8ûşÑÿ¶-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(çâ¨£ÿÿÿÿÿ8ùÜöÿ¶-

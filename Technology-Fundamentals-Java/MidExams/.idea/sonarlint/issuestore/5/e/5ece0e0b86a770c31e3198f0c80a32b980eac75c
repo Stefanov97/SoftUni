@@ -1,0 +1,22 @@
+
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÇÏîºº-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(öé©Ä8úŞ·ºº-
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ƒ¿ê†úÿÿÿÿ8…êİ¹º-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(Çµí‘8Å¿¹º-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(İğÜµüÿÿÿÿ8ÄÅÂ»º-
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8õ˜ïºº-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8„á´¹º-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ş£ãüÿÿÿÿ8úŞ·ºº-
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¶ü—8áåÂ»º-
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¿¦Ú§øÿÿÿÿ8úÿƒ»º-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ƒ¿ê†úÿÿÿÿ8…êİ¹º-
+Ksquid:S1199"-Extract this nested code block into a method.(––¨Ü8Â³öáº-

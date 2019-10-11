@@ -1,0 +1,21 @@
+
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÂƒÔžûÿÿÿÿ8’­Éü·-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÇÄ‘à8É†°ü·-
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(å“Îë8ßôÛü·-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(“¼¼ó8ð—×ü·-
+U
+squid:S106)"9Replace this use of System.out or System.err by a logger.(éå­<8È©Áü·-
+?squid:S1643"Use a StringBuilder instead.(õ‘¯úÿÿÿÿ8±ù˜ü·-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÏŒ¥Òþÿÿÿÿ8Í˜Çü·-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(©¶ûÐýÿÿÿÿ8ð­ü·-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(öÏ‹8òÂÚü·-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Òêã‚8ñ½…àÛ-
+Csquid:S3457;"%String contains no format specifiers.(Òêã‚8ñ½…àÛ-
