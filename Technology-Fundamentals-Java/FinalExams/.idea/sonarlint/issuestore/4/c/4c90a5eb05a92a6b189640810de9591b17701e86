@@ -1,0 +1,10 @@
+
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¦¦ĞÈøÿÿÿÿ8¸«„ÉÁ-
+„squid:S4165"fRemove this useless assignment; "realType" already holds the assigned value along all execution paths.(ßûš†8¸«„ÉÁ-
+„squid:S4165"fRemove this useless assignment; "realName" already holds the assigned value along all execution paths.(È›Ó8¸«„ÉÁ-
+1squid:S1220""Move this file to a named package.
+msquid:S3027"JPut single-quotes around '-' to use the faster "lastIndexOf(char)" method.(‰©ôüÿÿÿÿ8¸«„ÉÁ-
+isquid:S3027"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ÇÚùÓûÿÿÿÿ8¸«„ÉÁ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(í…á™8¸«„ÉÁ-

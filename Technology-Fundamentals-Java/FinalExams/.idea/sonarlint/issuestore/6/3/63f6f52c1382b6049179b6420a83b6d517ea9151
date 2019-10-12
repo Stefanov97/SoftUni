@@ -1,0 +1,9 @@
+
+:squid:S1643;"Use a StringBuilder instead.(¼œñƒ8“üÏ”Ä-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8“üÏ”Ä-
+?squid:S16438"Use a StringBuilder instead.(¾Ÿ‘Òüÿÿÿÿ8“üÏ”Ä-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ªÊâšúÿÿÿÿ8¹…Ô”Ä-
+1squid:S1220""Move this file to a named package.
+:squid:S1643$"Use a StringBuilder instead.(¼œñƒ8Î›È”Ä-
+?squid:S1643!"Use a StringBuilder instead.(¾Ÿ‘Òüÿÿÿÿ8Ø¤Ç”Ä-

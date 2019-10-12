@@ -1,0 +1,11 @@
+
+1squid:S1220""Move this file to a named package.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(‚¤ñ¾üÿÿÿÿ8Ïóœ•Â-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8êØò”Â-
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8êØò”Â-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ú’­›8æÏ •Â-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ß±›•Â-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÖÜµ¶üÿÿÿÿ8ášœ•Â-

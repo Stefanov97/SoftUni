@@ -1,0 +1,17 @@
+
+?squid:S16432"Use a StringBuilder instead.(³É³şÿÿÿÿ8À¸²¿Â-
+:squid:S16438"Use a StringBuilder instead.(¨¥å‰8Â—Â¿Â-
+:squid:S1643M"Use a StringBuilder instead.(†„ü¦8ı›«¿Â-
+csquid:S1226)"@Introduce a new variable instead of reusing the parameter "key".(¨¹Ñ˜ùÿÿÿÿ8•¶ò¿Â-
+csquid:S1226G"@Introduce a new variable instead of reusing the parameter "key".(„ÛŞ¦úÿÿÿÿ8Í¯î¿Â-
+:squid:S1643J"Use a StringBuilder instead.(áÆ˜¬8áÌª¿Â-
+1squid:S1220""Move this file to a named package.
+?squid:S1643P"Use a StringBuilder instead.(§áÅìøÿÿÿÿ8«Ã¿Â-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅãØİúÿÿÿÿ8…®ì¾Â-
+:squid:S16435"Use a StringBuilder instead.(¨Ã“®8úî²¿Â-
+csquid:S1226/"@Introduce a new variable instead of reusing the parameter "key".(¸ğí­ûÿÿÿÿ8•¶ò¿Â-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¥Ù¾Â-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ¶´×úÿÿÿÿ8°Ú´¿Â-
+csquid:S1226B"@Introduce a new variable instead of reusing the parameter "key".(¨¹Ñ˜ùÿÿÿÿ8Í¯î¿Â-

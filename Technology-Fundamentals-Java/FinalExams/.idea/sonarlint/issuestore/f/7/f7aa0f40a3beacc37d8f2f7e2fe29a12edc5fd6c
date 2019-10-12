@@ -1,0 +1,10 @@
+
+1squid:S1220""Move this file to a named package.
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8Éİ·ëÃ-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8Éİ·ëÃ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈìØ8¥âõêÃ-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Íê’¦úÿÿÿÿ8øñ¾ëÃ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ëœó8ŠÙªëÃ-

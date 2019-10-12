@@ -1,0 +1,22 @@
+
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8¿ÑË´Å-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(°§ÄÎúÿÿÿÿ8Ä¿ğ´Å-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(‡‚³ùüÿÿÿÿ8ÂŠƒµÅ-
+1squid:S1220""Move this file to a named package.
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¿ÑË´Å-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´8ÂõòÄ-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(é©Ñ¥úÿÿÿÿ8÷Ûï´Å-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(é©Ñ¥úÿÿÿÿ8Šç´Å-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(”“î€8 Ìß´Å-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8È×Ò´Å-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(°§ÄÎúÿÿÿÿ8Æ»ç´Å-
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(”“î€8ß±ú´Å-
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(”“î€8ÕÈŒµÅ-

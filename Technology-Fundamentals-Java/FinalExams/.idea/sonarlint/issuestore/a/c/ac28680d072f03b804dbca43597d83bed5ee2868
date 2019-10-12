@@ -1,0 +1,14 @@
+
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8Ö½Â-
+1squid:S1220""Move this file to a named package.
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(êòÕ¨ùÿÿÿÿ8›¢§¾Â-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ĞØÒ½ùÿÿÿÿ8ÁÈ¡¾Â-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ÅÎá†ÿÿÿÿÿ8º§™¾Â-
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8Ö½Â-
+Jsquid:S16026",Remove useless curly braces around statement(Á€¡Ñ8êï§¾Â-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÂÌòûÿÿÿÿÿ8êï§¾Â-
+Jsquid:S16022",Remove useless curly braces around statement(ûšÖ8ÁÈ¡¾Â-

@@ -1,0 +1,16 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8Í­ï«Á-
+U
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ÑÈ™8†Ø‹¬Á-
+vsquid:S1602@"SRemove useless curly braces around statement and then remove useless return keyword(¯Áø×ýÿÿÿÿ8”®˜¬Á-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÿ§ñ÷8ŠÕˆ¬Á-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8ƒª¨«Á-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¶ÒÓéúÿÿÿÿ8ô°ü¬Á-
+1squid:S1220""Move this file to a named package.
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(£±ÈÜ8Ñà¢¬Á-
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8ƒª¨«Á-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(œáúå8Ò±ñ«Á-
