@@ -1,0 +1,16 @@
+
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(„™ 8Ş¼¤¦Ñ-
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8ùöó¥Ñ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8¢Ÿ¦Ñ-
+Osquid:S1602>",Remove useless curly braces around statement(¾úôŠÿÿÿÿÿ8ï¾½¦Ñ-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(†€œøÿÿÿÿ8ï¾½¦Ñ-
+Osquid:S1602:",Remove useless curly braces around statement(ßİòüúÿÿÿÿ8°â´¦Ñ-
+dsquid:S1192"GDefine a constant instead of duplicating this literal "shards" 3 times.(Àìµz8›Š­¦Ñ-
+qsquid:S16028"SRemove useless curly braces around statement and then remove useless return keyword(ùÜ£8°â´¦Ñ-
+dsquid:S1192"FDefine a constant instead of duplicating this literal "motes" 3 times.(Ğáúó8›Š­¦Ñ-
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ò¢ä›8™¦Ñ-
+msquid:S1192"JDefine a constant instead of duplicating this literal "fragments" 3 times.(Ï°ÜÛıÿÿÿÿ8›Š­¦Ñ-
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(†€œøÿÿÿÿ8°â´¦Ñ-

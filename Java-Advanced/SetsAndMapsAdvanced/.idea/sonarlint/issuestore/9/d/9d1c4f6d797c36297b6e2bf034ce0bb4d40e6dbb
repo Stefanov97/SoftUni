@@ -1,0 +1,11 @@
+
+isquid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(äÿ·¬şÿÿÿÿ8óéˆĞ-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ƒ³şß8¡¹ˆ‰Ğ-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¬¯ á8ü†™‰Ğ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëü†¶şÿÿÿÿ8ã©‚‰Ğ-
+csquid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(Ä®Æ8šØèˆĞ-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä®Æ8»òåˆĞ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜öÔÇ8Ñô…‰Ğ-
