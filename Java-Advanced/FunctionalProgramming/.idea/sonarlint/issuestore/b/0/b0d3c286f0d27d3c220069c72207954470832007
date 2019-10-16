@@ -1,0 +1,12 @@
+
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ßğĞ‰ÿÿÿÿÿ8ã¹Á¤Ò-
+nsquid:S1301)"KReplace this "switch" statement by "if" statements to increase readability.(Ìü°Ëıÿÿÿÿ8Òúè¤Ò-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(”¡´ûÿÿÿÿ8îÜ¿¤Ò-
+\"squid:SwitchLastCaseIsDefaultCheck)""Add a default case to this switch.(Ìü°Ëıÿÿÿÿ8Òúè¤Ò-
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(ñ»ò—şÿÿÿÿ8îÜ¿¤Ò-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ğçâ‘ûÿÿÿÿ8³›À¤Ò-
+^squid:UselessImportCheck".Remove this unused import 'com.sun.jdi.Value'.(ñ»ò—şÿÿÿÿ8˜Î¤Ò-
+ksquid:UselessImportCheck";Remove this unused import 'java.util.function.BiPredicate'.(Ğ–¡ñúÿÿÿÿ8Ïş¸¤Ò-

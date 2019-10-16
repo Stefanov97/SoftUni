@@ -1,0 +1,6 @@
+
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ú¤ÔĞıÿÿÿÿ8ÌªìÒÒ-
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8îÁĞÒÒ-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¸ìù«üÿÿÿÿ8ûù£ÒÒ-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8½ÎÔ¢Ü-

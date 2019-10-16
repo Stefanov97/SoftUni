@@ -1,0 +1,8 @@
+
+|squid:S4276"YRefactor this code to use the more specialised Functional Interface 'DoubleUnaryOperator'(Ø¥ù³úÿÿÿÿ8”ƒ¤Ò-
+Osquid:S1612",Replace this lambda with a method reference.(õÌÚ¶ıÿÿÿÿ8°Áˆ¤Ò-
+ssquid:UselessImportCheck"CRemove this unused import 'java.util.function.DoubleUnaryOperator'.(•‡˜Òúÿÿÿÿ8°Œ¤Ò-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÌÚ¶ıÿÿÿÿ8°Áˆ¤Ò-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯Ì´8åÚ¤Ò-

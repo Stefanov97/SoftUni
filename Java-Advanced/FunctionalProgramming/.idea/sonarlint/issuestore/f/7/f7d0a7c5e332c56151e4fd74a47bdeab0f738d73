@@ -1,0 +1,18 @@
+
+tsquid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(û–ß§ÿÿÿÿÿ8ÎòÍ¢Ò-
+Osquid:S1612",Replace this lambda with a method reference.(û–ß§ÿÿÿÿÿ8—•Î¢Ò-
+bsquid:S1854"?Remove this useless assignment to local variable "printNumber".(›şÑ©ûÿÿÿÿ8õâï¢Ò-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãâˆ®8©÷ñ¢Ò-
+Wsquid:S1481"4Remove this unused "printLastNumber" local variable.(û–ß§ÿÿÿÿÿ8ğàİ¢Ò-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›şÑ©ûÿÿÿÿ8ÒÎ¼¢Ò-
+fsquid:S1854"CRemove this useless assignment to local variable "printLastNumber".(û–ß§ÿÿÿÿÿ8ğàİ¢Ò-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(û–ß§ÿÿÿÿÿ8ÎòÍ¢Ò-
+psquid:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(êØÀå8†÷²¢Ò-
+tsquid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(›şÑ©ûÿÿÿÿ8ÒÎ¼¢Ò-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(®óİ²8ß¤ì¢Ò-
+Ssquid:S1481"0Remove this unused "printNumber" local variable.(›şÑ©ûÿÿÿÿ8õâï¢Ò-
+_squid:UselessImportCheck	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8åŞç¢Ò-

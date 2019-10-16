@@ -1,0 +1,10 @@
+
+|squid:S4276"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(è›å½úÿÿÿÿ8Õ¨‹ÎÒ-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8š“”ÎÒ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æú¼Æÿÿÿÿÿ8ó–ğÍÒ-
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.( ×œ8õôìÍÒ-
+wsquid:S4276"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(øÆñÜ8Ù¼ÎÒ-
+tsquid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(æú¼Æÿÿÿÿÿ8ó–ğÍÒ-
+wsquid:S4276"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(•í†8€ÃùÍÒ-
