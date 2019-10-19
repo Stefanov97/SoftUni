@@ -1,0 +1,15 @@
+
+\
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚÔÈ¬Ü-
+psquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Çµí‘8´ê€¹Ï-
+\"squid:SwitchLastCaseIsDefaultCheck3""Add a default case to this switch.(¸ìù«üÿÿÿÿ8´ê€¹Ï-
+psquid:S3776f"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÍÚ‚ñ8ÚÔÈ¬Ü-
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(†ªºü8ÚÔÈ¬Ü-
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ò×çªùÿÿÿÿ8ÚÔÈ¬Ü-
+Rsquid:S1066"/Merge this if statement with the enclosing one.(‘×ÑËøÿÿÿÿ8¹—ó¸Ï-
+W
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(Ñ…8ÚÔÈ¬Ü-
+{
+squid:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(ëø¼Ûøÿÿÿÿ8³ÂÖÁÏ-

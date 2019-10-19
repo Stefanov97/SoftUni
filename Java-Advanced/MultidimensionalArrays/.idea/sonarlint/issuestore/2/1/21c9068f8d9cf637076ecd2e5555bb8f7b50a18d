@@ -1,0 +1,9 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ê’ğÎ-
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ßÉïÎ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8ã›îòÎ-
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ÿÉ€Ğûÿÿÿÿ8¸Š‹ñÎ-
+‹ squid:ForLoopCounterChangedCheck5"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚Èê¿8‹§ÿòÎ-
+‹ squid:ForLoopCounterChangedCheck-"XRefactor the code in order to not assign to this loop counter from within the loop body.(ã´ó¿8ıøòÎ-

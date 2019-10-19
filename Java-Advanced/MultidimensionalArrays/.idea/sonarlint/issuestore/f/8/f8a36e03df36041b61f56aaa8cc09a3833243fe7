@@ -1,0 +1,9 @@
+
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Çµí‘8ñ×‘ãÎ-
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ñ…8İÖÍ¬Ü-
+Psquid:S1199?"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8ŞøåÎ-
+W"squid:SwitchLastCaseIsDefaultCheck7""Add a default case to this switch.(«”ÉÀ8§®…ãÎ-
+[
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8İÖÍ¬Ü-
+Psquid:S1199I"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ŞøåÎ-

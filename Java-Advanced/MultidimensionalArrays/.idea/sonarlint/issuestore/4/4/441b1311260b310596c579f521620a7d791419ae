@@ -1,0 +1,12 @@
+
+{
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ƒ¯Ã·Ï-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ÏˆÆÂýÿÿÿÿ8ƒ¯Ã·Ï-
+tsquid:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(ÏˆÆÂýÿÿÿÿ8ƒ¯Ã·Ï-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ìÿáá8ƒ¯Ã·Ï-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ìÿáá8ƒ¯Ã·Ï-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(žÚº´8ÞØÃ·Ï-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘8ƒ¯Ã·Ï-
