@@ -1,0 +1,7 @@
+
+Dsquid:S1481"(Remove this unused "num" local variable.(¹‘’…şÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÿôğó
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+Ssquid:S1854"7Remove this useless assignment to local variable "num".(¹‘’…şÿÿÿÿ
+Zsquid:S11553">Use isEmpty() to check whether the collection is empty or not.(£ş®øÿÿÿÿ

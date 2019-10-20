@@ -1,0 +1,11 @@
+
+Msquid:S1066"/Merge this if statement with the enclosing one.(æ†ô“8‹åÒ£Í-
+osquid:S1871"LThis branch's code block is the same as the block for the branch on line 22.(Ä‹ªÄÿÿÿÿÿ8å¢Ê£Í-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8·½Ê£Í-
+osquid:S1871"LThis branch's code block is the same as the block for the branch on line 22.(­ïÜÓøÿÿÿÿ8·½Ê£Í-
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(÷Ñ¹¸8å¢Ê£Í-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8Ú‹Î£Í-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8·½Ê£Í-

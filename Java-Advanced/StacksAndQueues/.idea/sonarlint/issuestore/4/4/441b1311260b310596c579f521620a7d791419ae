@@ -1,0 +1,5 @@
+
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´8ğ´ÙÍÍ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ë±£ûøÿÿÿÿ8ßŸÙÍÍ-
+Wsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¢­²•8ßŸÙÍÍ-

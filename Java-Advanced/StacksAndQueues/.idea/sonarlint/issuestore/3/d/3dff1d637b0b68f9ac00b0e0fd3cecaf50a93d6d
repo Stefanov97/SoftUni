@@ -1,0 +1,12 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(·åŠĞ8Ç¼•ïÌ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢˜ğ‡8ªìïÌ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢˜ğ‡8³½”ïÌ-
+isquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(™Ïêƒ8¿† îÌ-
+Wsquid:S1854
+"9Remove this useless assignment to local variable "queue".(ç›ÂÔ8ÃÄğòÌ-
+Hsquid:S1481
+"*Remove this unused "queue" local variable.(ç›ÂÔ8ÃÄğòÌ-

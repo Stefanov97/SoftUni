@@ -1,0 +1,5 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ชึÿÿÿÿÿ8ท๘กลอ-
+?squid:S1643"Use a StringBuilder instead.(๛็๎๒๛ÿÿÿÿ8ท๘กลอ-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ธ์๙ซüÿÿÿÿ8ท๘กลอ-
