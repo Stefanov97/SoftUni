@@ -1,0 +1,9 @@
+
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨”ÕúÑ-
+^squid:S2259""@A "NullPointerException" could be thrown; "is" is nullable here.(şÑù8ğíÓúÑ-
+lsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(äœ“‡8€¤úúÑ-
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(˜½œ şÿÿÿÿ8µööúÑ-
+ksquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‡õª¡8€¤úúÑ-
+^squid:S2259#"@A "NullPointerException" could be thrown; "os" is nullable here.(œñÑ8ÁÀùúÑ-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8 ·ÔúÑ-
+Zsquid:UselessImportCheck"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8µööúÑ-

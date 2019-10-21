@@ -1,0 +1,6 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ö³ÿÿÿÿÿ8ÏÁíĞÑ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­ÅæĞÑ-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8­ÅæĞÑ-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(»ÜÁ¾8­ÅæĞÑ-
