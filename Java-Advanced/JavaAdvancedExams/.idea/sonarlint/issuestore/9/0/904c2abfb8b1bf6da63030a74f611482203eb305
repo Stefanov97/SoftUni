@@ -1,0 +1,17 @@
+
+W
+squid:S106€"9Replace this use of System.out or System.err by a logger.(‘°™Š8¦œİÏÕ-
+Psquid:S1481"-Remove this unused "helenRow" local variable.(­¾ø´şÿÿÿÿ8­¦°ÏÕ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(Çµí‘8ôÉ‘ÏÕ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø‚ÜÖ8¬ºÊÎÕ-
+Zsquid:S1854$"<Remove this useless assignment to local variable "helenRow".(Ë¬ÿ8­¦°ÏÕ-
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¬ºÊÎÕ-
+Psquid:S1481"-Remove this unused "helenCol" local variable.(ÅÑ„õşÿÿÿÿ8Ï¦ãÎÕ-
+Zsquid:S1854#"<Remove this useless assignment to local variable "helenCol".(ø¹×à8Ï¦ãÎÕ-
+\"squid:SwitchLastCaseIsDefaultCheck2""Add a default case to this switch.(Æóõµıÿÿÿÿ8¾ÙÒÎÕ-
+asquid:UselessImportCheck"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8ùôûÍÕ-
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(¤›áíûÿÿÿÿ8›ÙÏÕ-
