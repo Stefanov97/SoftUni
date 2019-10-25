@@ -1,0 +1,4 @@
+
+Osquid:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8º‹¬ÔÚ-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ê¶Á”
+^squid:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8º‹¬ÔÚ-
