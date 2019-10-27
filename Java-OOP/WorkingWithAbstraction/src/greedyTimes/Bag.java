@@ -4,9 +4,9 @@ import java.util.LinkedHashSet;
 
 public class Bag {
     private long capacity;
-    private LinkedHashSet<Gold> gold;
-    private LinkedHashSet<Cash> cash;
-    private LinkedHashSet<Gem> gems;
+    private Set<Gold> gold;
+    private Set<Cash> cash;
+    private Set<Gem> gems;
 
     public Bag(long capacity) {
         this.capacity = capacity;
