@@ -1,0 +1,6 @@
+
+Rsquid:S1068
+"4Remove this unused "numberOfToppings" private field.(±Ã¹Ÿ8’™æ›Ý-
+}squid:S1450
+"_Remove the "numberOfToppings" field and declare it as a local variable in the relevant methods.(±Ã¹Ÿ8´Úý›Ý-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¹§àÿÿÿÿÿ
