@@ -1,0 +1,25 @@
+
+Gsquid:S1068	"+Remove this unused "testInt" private field.(»Šÿøÿÿÿÿ
+Hsquid:S1068",Remove this unused "testLong" private field.(”´ÀÀûÿÿÿÿ
+Isquid:S1068"-Remove this unused "aCalendar" private field.(½òîøÿÿÿÿ
+Hsquid:S1068",Remove this unused "testChar" private field.(¾êµ»ıÿÿÿÿ
+Jsquid:S1068".Remove this unused "testBigInt" private field.(¦Î’âùÿÿÿÿ
+Gsquid:S1068"+Remove this unused "aThread" private field.(„‹‚Ñøÿÿÿÿ
+Jsquid:S1068".Remove this unused "aPredicate" private field.(•ûÿÿÿÿÿ
+Lsquid:S1068"0Remove this unused "hiddenObject" private field.(«úæˆøÿÿÿÿ
+Msquid:S1068!"1Remove this unused "anotherString" private field.(–Â”Æüÿÿÿÿ
+Qsquid:S1068$"5Remove this unused "internalException" private field.(†ğºÉüÿÿÿÿ
+Lsquid:S1068)"0Remove this unused "secretStream" private field.(éÑõúÿÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck
+"VMake testDouble a static final constant or non-public and provide accessors if needed.(çêøÀúÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"SMake aString a static final constant or non-public and provide accessors if needed.(óœ„±üÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake aBuilder a static final constant or non-public and provide accessors if needed.(„ëÉƒıÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"UMake testShort a static final constant or non-public and provide accessors if needed.(‰­ ­
+"squid:ClassVariableVisibilityCheck"QMake aByte a static final constant or non-public and provide accessors if needed.(÷•Æ‡
+…"squid:ClassVariableVisibilityCheck"RMake aFloat a static final constant or non-public and provide accessors if needed.(Åé¸ÿÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"VMake testThread a static final constant or non-public and provide accessors if needed.(”±‹¸
+‡"squid:ClassVariableVisibilityCheck"TMake anObject a static final constant or non-public and provide accessors if needed.(‹®ÿÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck#"bMake anotherIntBitesTheDust a static final constant or non-public and provide accessors if needed.(ñàÒ¥ıÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck&"YMake justException a static final constant or non-public and provide accessors if needed.(Ó™ãı
+"squid:ClassVariableVisibilityCheck'"SMake aStream a static final constant or non-public and provide accessors if needed.(û¢¬ğ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëåßÖ

@@ -1,0 +1,7 @@
+
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(’÷Šü8³Â¼á-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿáû¾úÿÿÿÿ8ÉÈêá-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¤ºÎÿÿÿÿÿ
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãú”ó8³Â¼á-
+Ÿsquid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾æ¼Ÿ8Úêá-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„¦Åâ8ÉÈêá-

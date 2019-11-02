@@ -1,0 +1,10 @@
+
+_squid:UnusedPrivateMethod	"5Remove this unused private "BlackBoxInt" constructor.(»¯Ÿåûÿÿÿÿ
+Wsquid:UnusedPrivateMethod"-Remove this unused private "multiply" method.(ÕÃ„Ðúÿÿÿÿ
+Ssquid:UnusedPrivateMethod!".Remove this unused private "leftShift" method.(ü¿‘Å
+Psquid:UnusedPrivateMethod"+Remove this unused private "divide" method.(¦Ì÷ô
+Rsquid:UnusedPrivateMethod"(Remove this unused private "add" method.(çÔÑ¹þÿÿÿÿ
+Dsquid:S1068".Remove this unused "innerValue" private field.(³´¬
+Tsquid:UnusedPrivateMethod%"/Remove this unused private "rightShift" method.(§ìüö
+Rsquid:UnusedPrivateMethod"-Remove this unused private "subtract" method.(—±³—
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Ãêé8“ÅõÜá-

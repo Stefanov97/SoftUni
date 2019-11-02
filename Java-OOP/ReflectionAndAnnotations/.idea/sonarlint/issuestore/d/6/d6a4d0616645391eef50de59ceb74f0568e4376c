@@ -1,0 +1,4 @@
+
+jsquid:UselessImportCheck"?Remove this unused import 'barracksWars.interfaces.Repository'.(κµ®ξ8ƒυία-
+ksquid:UselessImportCheck"@Remove this unused import 'barracksWars.interfaces.UnitFactory'.(·’®8ƒυία-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³Ϋο‰
