@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6a1f5cf-81c7-4f53-8c2b-bd6e9a84d64b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="353" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TN3Wcgp3iFUoM5ScpwnUCFaWJB" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/rpg_exercise" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rpg_tests_exercise.p06_TirePressureMonitoringSystem" />
+      <recent name="rpg_tests_exercise.p05_CustomLinkedList" />
+      <recent name="rpg_tests_exercise.p04_BubbleSortTest" />
+      <recent name="rpg_tests_exercise.p03_IteratorTest" />
+      <recent name="rpg_exercise.p02_ExtendedDatabase" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="rpg_tests_exercise.p03_IteratorTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rpg_tests" />
+      <recent name="rpg_exercise" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pavel\IdeaProjects\UnitTests\src\main\java\rpg_exercise" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseTests.removeOperationShouldRemoveTheLastElement">
+    <configuration name="DatabaseTests.addMethodShouldAddElementsAtTheNextFreeCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_tests_exercise.p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_tests_exercise.p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="rpg_tests_exercise.p01_Database.DatabaseTests" />
+      <option name="METHOD_NAME" value="addMethodShouldAddElementsAtTheNextFreeCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.arrayShouldIncreaseSizeAfterAddingAnElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_tests_exercise.p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_tests_exercise.p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="rpg_tests_exercise.p01_Database.DatabaseTests" />
+      <option name="METHOD_NAME" value="arrayShouldIncreaseSizeAfterAddingAnElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.removeOperationShouldRemoveTheLastElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_tests_exercise.p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_tests_exercise.p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="rpg_tests_exercise.p01_Database.DatabaseTests" />
+      <option name="METHOD_NAME" value="removeOperationShouldRemoveTheLastElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDatabaseTests.findByUsernameMethodShouldThrowExceptionIFNoUserIsPresentByThisUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_tests_exercise.p02_DatabaseExtended.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_tests_exercise.p02_DatabaseExtended" />
+      <option name="MAIN_CLASS_NAME" value="rpg_tests_exercise.p02_DatabaseExtended.PersonDatabaseTests" />
+      <option name="METHOD_NAME" value="findByUsernameMethodShouldThrowExceptionIFNoUserIsPresentByThisUsername" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDatabaseTests.namesShouldBeCaseSensitive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_tests_exercise.p02_DatabaseExtended.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_tests_exercise.p02_DatabaseExtended" />
+      <option name="MAIN_CLASS_NAME" value="rpg_tests_exercise.p02_DatabaseExtended.PersonDatabaseTests" />
+      <option name="METHOD_NAME" value="namesShouldBeCaseSensitive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseTests.removeOperationShouldRemoveTheLastElement" />
+        <item itemvalue="JUnit.DatabaseTests.arrayShouldIncreaseSizeAfterAddingAnElement" />
+        <item itemvalue="JUnit.DatabaseTests.addMethodShouldAddElementsAtTheNextFreeCell" />
+        <item itemvalue="JUnit.PersonDatabaseTests.namesShouldBeCaseSensitive" />
+        <item itemvalue="JUnit.PersonDatabaseTests.findByUsernameMethodShouldThrowExceptionIFNoUserIsPresentByThisUsername" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6a1f5cf-81c7-4f53-8c2b-bd6e9a84d64b" name="Default Changelist" comment="" />
+      <created>1573286758177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573286758177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rpg_lab$HeroTests.ic" NAME="HeroTests Coverage Results" MODIFIED="1573301847490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rpg_tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rpg_lab$CustomLinkedListTests.ic" NAME="CustomLinkedListTests Coverage Results" MODIFIED="1573309641750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rpg_tests_exercise.p05_CustomLinkedList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rpg_lab$DatabaseTests.ic" NAME="DatabaseTests Coverage Results" MODIFIED="1573304326279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rpg_tests.p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rpg_lab$ListIteratorTests.ic" NAME="ListIteratorTests Coverage Results" MODIFIED="1573307405492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rpg_tests_exercise.p03_IteratorTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rpg_lab$PersonDatabaseTests.ic" NAME="PersonDatabaseTests Coverage Results" MODIFIED="1573304729991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rpg_tests_exercise.DatabaseExtended.*</FILTER>
+    </SUITE>
+  </component>
+</project>
