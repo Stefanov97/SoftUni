@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad4a240b-21d9-4f80-8cc3-86052fe6a599" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TWNQ070hrzuyDh84DcgFElZ2Ck" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TDD_lab" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ChainblockImplTests (1)">
+    <configuration name="ChainblockImplTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD_Exercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChainblockImplTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainblockImplTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chainblock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChainblockImplTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainblockImplTests.getAllInAmountRangeShouldReturnAllTransactionsInTheGivenRangeInclusiveByTheInsertionOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chainblock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChainblockImplTests" />
+      <option name="METHOD_NAME" value="getAllInAmountRangeShouldReturnAllTransactionsInTheGivenRangeInclusiveByTheInsertionOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainblockImplTests.getAllInAmountRangeShouldReturnEmptyCollectionIfNoSuchTransactionsWereFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chainblock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChainblockImplTests" />
+      <option name="METHOD_NAME" value="getAllInAmountRangeShouldReturnEmptyCollectionIfNoSuchTransactionsWereFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainblockImplTests.getByReceiverAndAmountRangeShouldReturnAllTransactionsWithTheGivenReceiverAndAmountBetweenTheRangeGiven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chainblock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChainblockImplTests" />
+      <option name="METHOD_NAME" value="getByReceiverAndAmountRangeShouldReturnAllTransactionsWithTheGivenReceiverAndAmountBetweenTheRangeGiven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChainblockImplTests (1)" />
+        <item itemvalue="JUnit.ChainblockImplTests" />
+        <item itemvalue="JUnit.ChainblockImplTests.getAllInAmountRangeShouldReturnAllTransactionsInTheGivenRangeInclusiveByTheInsertionOrder" />
+        <item itemvalue="JUnit.ChainblockImplTests.getAllInAmountRangeShouldReturnEmptyCollectionIfNoSuchTransactionsWereFound" />
+        <item itemvalue="JUnit.ChainblockImplTests.getByReceiverAndAmountRangeShouldReturnAllTransactionsWithTheGivenReceiverAndAmountBetweenTheRangeGiven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad4a240b-21d9-4f80-8cc3-86052fe6a599" name="Default Changelist" comment="" />
+      <created>1573571871184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573571871184</updated>
+    </task>
+    <servers />
+  </component>
+</project>
