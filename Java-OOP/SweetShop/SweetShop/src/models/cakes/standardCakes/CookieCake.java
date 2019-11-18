@@ -1,6 +1,6 @@
 package models.cakes.standardCakes;
 
-import models.cakes.enums.CakeKind;
+import models.enums.CakeKind;
 
 public class CookieCake extends StandardCake {
     private static final String NAME = "Cookie cake";

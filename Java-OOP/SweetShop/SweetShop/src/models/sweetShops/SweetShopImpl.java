@@ -1,6 +1,7 @@
 package models.sweetShops;
 
-import models.cakes.enums.CakeKind;
+import models.customers.interfaces.Customer;
+import models.enums.CakeKind;
 import models.cakes.childCakes.ChildCake;
 import models.cakes.interfaces.Cake;
 import models.cakes.specialCakes.SpecialCake;
@@ -13,8 +14,8 @@ import models.orders.interfaces.Order;
 import models.suppliers.interfaces.Supplier;
 import models.sweetShops.interfaces.SweetShop;
 import models.vouchers.interfaces.Voucher;
-import repositories.CakeCatalogImpl;
-import repositories.interfaces.CakeCatalog;
+import models.catalogs.CakeCatalogImpl;
+import models.catalogs.interfaces.CakeCatalog;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -75,27 +76,23 @@ public class SweetShopImpl implements SweetShop {
         return this.suppliers;
     }
 
-    @Override
-    public void processOrderForCorporativeCustomer(CorporateCustomer customer, CakeKind cakeKind, int count) {
-        List<Cake> orderedCakes = getCakes(cakeKind, count);
-        double discountPercentage = customer.getDiscountPercentage();
-        double price = orderedCakes.stream().mapToDouble(Cake::getPrice).sum();
-        double priceAfterDiscount = price - (price * discountPercentage / 100.0);
-        Order order = new OrderImpl(customer, priceAfterDiscount, "Studentski", orderedCakes, "Today at 5 pm");
-        Supplier supplier = this.suppliers.get(indexOfSupliers++ % this.suppliers.size());
-        double tipPercentage = 5;
-        supplier.addOrder(order);
-        this.cashRegister += supplier.deliver(tipPercentage);
-        customer.payOrder(priceAfterDiscount);
-    }
 
     @Override
-    public void processOrderForPrivateCustomer(PrivateCustomer customer, CakeKind cakeKind, int count) {
+    public void processOrder(Customer customer, CakeKind cakeKind, int count) {
         List<Cake> orderedCakes = getCakes(cakeKind, count);
-        List<Voucher> vouchers = customer.getVouchers();
-        double price = orderedCakes.stream().mapToDouble(Cake::getPrice).sum();
-        double discount = vouchers.stream().mapToDouble(Voucher::getValue).sum();
-        double priceAfterDiscount = price - discount;
+        double priceAfterDiscount =0;
+        if(customer.getClass().getSimpleName().equals("PrivateCustomer")){
+            PrivateCustomer privateCustomer = (PrivateCustomer) customer;
+            List<Voucher> vouchers =privateCustomer.getVouchers();
+            double price = orderedCakes.stream().mapToDouble(Cake::getPrice).sum();
+            double discount = vouchers.stream().mapToDouble(Voucher::getValue).sum();
+             priceAfterDiscount = price - discount;
+        }else {
+            CorporateCustomer corporateCustomer = (CorporateCustomer) customer;
+            double discountPercentage = corporateCustomer.getDiscountPercentage();
+            double price = orderedCakes.stream().mapToDouble(Cake::getPrice).sum();
+            priceAfterDiscount = price - (price * discountPercentage / 100.0);
+        }
         Order order = new OrderImpl(customer, priceAfterDiscount, "Studentski", orderedCakes, "Today at 5 pm");
         Supplier supplier = this.suppliers.get(indexOfSupliers++ % this.suppliers.size());
         double tipPercentage = 2;
@@ -103,6 +100,7 @@ public class SweetShopImpl implements SweetShop {
         this.cashRegister += supplier.deliver(tipPercentage);
         customer.payOrder(priceAfterDiscount);
     }
+
 
     private List<Cake> getCakes(CakeKind cakeKind, int count) {
         List<Cake> cakes = new ArrayList<>();

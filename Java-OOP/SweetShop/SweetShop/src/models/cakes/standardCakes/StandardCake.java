@@ -1,8 +1,8 @@
 package models.cakes.standardCakes;
 
 import models.cakes.BaseCake;
-import models.cakes.enums.CakeKind;
-import models.cakes.enums.CakeType;
+import models.enums.CakeKind;
+import models.enums.CakeType;
 
 public abstract class StandardCake extends BaseCake {
     private boolean isSyrupy;

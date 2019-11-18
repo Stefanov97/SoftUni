@@ -1,8 +1,8 @@
 package core;
 
 import core.interfaces.Controller;
-import models.cakes.enums.CakeKind;
-import models.cakes.enums.CakeType;
+import models.enums.CakeKind;
+import models.enums.CakeType;
 import models.cakes.childCakes.ChildCake;
 import models.cakes.specialCakes.SpecialCake;
 import models.cakes.standardCakes.StandardCake;

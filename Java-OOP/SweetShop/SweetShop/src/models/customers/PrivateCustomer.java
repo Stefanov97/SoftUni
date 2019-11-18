@@ -1,6 +1,6 @@
 package models.customers;
 
-import models.cakes.enums.CakeKind;
+import models.enums.CakeKind;
 import models.sweetShops.interfaces.SweetShop;
 import models.vouchers.interfaces.Voucher;
 
@@ -18,7 +18,7 @@ public class PrivateCustomer extends BaseCustomer {
         return this.vouchers;
     }
 
-    public void order(SweetShop sweetShop, CakeKind cakeKind, int count) {
-    sweetShop.processOrderForPrivateCustomer(this,cakeKind,count);
-    }
+//    public void order(SweetShop sweetShop, CakeKind cakeKind, int count) {
+//    sweetShop.processOrderForPrivateCustomer(this,cakeKind,count);
+//    }
 }

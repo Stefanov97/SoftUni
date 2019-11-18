@@ -1,4 +1,4 @@
-package repositories.interfaces;
+package models.catalogs.interfaces;
 
 import models.cakes.childCakes.ChildCake;
 import models.cakes.specialCakes.SpecialCake;

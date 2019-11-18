@@ -1,6 +1,6 @@
 package models.customers;
 
-import models.cakes.enums.CakeKind;
+import models.enums.CakeKind;
 import models.sweetShops.interfaces.SweetShop;
 
 
@@ -18,9 +18,9 @@ public class CorporateCustomer extends BaseCustomer {
     }
 
 
-    public void order(SweetShop sweetShop,CakeKind cakeKind, int count) {
-        sweetShop.processOrderForCorporativeCustomer(this,cakeKind,count);
-    }
+//    public void order(SweetShop sweetShop,CakeKind cakeKind, int count) {
+//        sweetShop.processOrderForCorporativeCustomer(this,cakeKind,count);
+//    }
 
 
 

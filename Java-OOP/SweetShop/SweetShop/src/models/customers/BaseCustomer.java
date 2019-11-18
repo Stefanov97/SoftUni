@@ -1,6 +1,8 @@
 package models.customers;
 
 import models.customers.interfaces.Customer;
+import models.enums.CakeKind;
+import models.sweetShops.interfaces.SweetShop;
 
 public abstract class BaseCustomer implements Customer {
     private String name;
@@ -31,5 +33,10 @@ public abstract class BaseCustomer implements Customer {
     @Override
     public String getPhoneNumber() {
         return this.phoneNumber;
+    }
+
+    @Override
+    public void order(SweetShop sweetShop, CakeKind cakeKind, int count) {
+        sweetShop.processOrder(this,cakeKind,count);
     }
 }

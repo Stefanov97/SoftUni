@@ -1,4 +1,4 @@
-package repositories;
+package models.catalogs;
 
 import models.cakes.BaseCake;
 import models.cakes.childCakes.ChildCake;
@@ -6,7 +6,7 @@ import models.cakes.specialCakes.SpecialCake;
 import models.cakes.standardCakes.StandardCake;
 import models.cakes.weddingCakes.WeddingCake;
 
-import repositories.interfaces.CakeCatalog;
+import models.catalogs.interfaces.CakeCatalog;
 
 import java.util.ArrayList;
 import java.util.Comparator;

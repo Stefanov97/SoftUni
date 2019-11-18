@@ -1,6 +1,6 @@
 package models.cakes.childCakes;
 
-import models.cakes.enums.CakeKind;
+import models.enums.CakeKind;
 
 public class BirthdayCake extends ChildCake {
     private static final String NAME = "Birthday cake";

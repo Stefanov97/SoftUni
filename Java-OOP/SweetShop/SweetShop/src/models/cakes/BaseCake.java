@@ -1,7 +1,7 @@
 package models.cakes;
 
-import models.cakes.enums.CakeKind;
-import models.cakes.enums.CakeType;
+import models.enums.CakeKind;
+import models.enums.CakeType;
 import models.cakes.interfaces.Cake;
 
 public abstract class BaseCake implements Cake {

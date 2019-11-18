@@ -1,6 +1,6 @@
 package models.customers.interfaces;
 
-import models.cakes.enums.CakeKind;
+import models.enums.CakeKind;
 import models.sweetShops.interfaces.SweetShop;
 
 public interface Customer {
@@ -9,4 +9,5 @@ public interface Customer {
     void order(SweetShop sweetShop, CakeKind cakeKind, int count);
     double getTotalSpentForCakes();
     void  payOrder(double price);
+
 }

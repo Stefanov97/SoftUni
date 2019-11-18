@@ -1,10 +1,11 @@
 package models.sweetShops.interfaces;
 
-import models.cakes.enums.CakeKind;
+import models.customers.interfaces.Customer;
+import models.enums.CakeKind;
 import models.customers.CorporateCustomer;
 import models.customers.PrivateCustomer;
 import models.suppliers.interfaces.Supplier;
-import repositories.interfaces.CakeCatalog;
+import models.catalogs.interfaces.CakeCatalog;
 
 import java.util.List;
 import java.util.Map;
@@ -17,12 +18,7 @@ public interface SweetShop {
     String getPhone();
     double getCashRegister();
     Map<String,Integer> getSoldCakes();
-
     List<Supplier> getSuppliers();
-
-    void processOrderForCorporativeCustomer(CorporateCustomer customer, CakeKind cakeKind, int count);
-
-    void processOrderForPrivateCustomer(PrivateCustomer customer, CakeKind cakeKind, int count);
-
+    void processOrder(Customer customer, CakeKind cakeKind, int count);
     CakeCatalog getCatalog();
 }
