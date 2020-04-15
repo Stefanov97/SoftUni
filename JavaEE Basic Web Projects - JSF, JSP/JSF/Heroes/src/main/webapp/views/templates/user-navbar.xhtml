@@ -1,0 +1,24 @@
+<header xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+        <h:link outcome="home" class="navbar-brand text-white h4" value="Heroes"/>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
+            <ul class="navbar-nav row w-25">
+                <li class="nav-item col-md-4">
+                    <h:link class="nav-link text-white active h5" outcome="home" value="Home"/>
+                </li>
+                <li class="nav-item col-md-4">
+                    <h:link class="nav-link text-white  active h5" outcome="create-hero" value="Create Hero"/>
+                </li>
+                <li class="nav-item col-md-4">
+                    <h:form>
+                        <h:commandLink class="nav-link text-white active h5" action="#{userLogoutBean.logout}" value="Logout"/>
+                    </h:form>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core" xmlns:pt="http://xmlns.jcp.org/jsf/passthrough">
+<ui:include src="templates/head.xhtml"/>
+<h:body>
+    <ui:include src="templates/user-navbar.xhtml"/>
+    <main>
+        <h1 class="text-center mt-2">Create Hero</h1>
+        <hr class="hr-3"/>
+        <h:form class="mx-auto w-15">
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="heroName" class="h4 mb-2">Hero Name</label>
+                </div>
+                <h:inputText class="form-control" id="heroName" name="heroName" value="#{heroCreateBean.model.name}" pt:placeholder="Name"/>
+            </div>
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="heroClass" class="h4 mb-2">Hero Class</label>
+                </div>
+                <h:selectOneMenu style="margin-left: 30%; width: 100px;" id="heroClass" value="#{heroCreateBean.model.clazz}">
+                    <f:selectItem itemValue="warrior" itemLabel="Warrior" />
+                    <f:selectItem itemValue="archer" itemLabel="Archer"/>
+                    <f:selectItem itemValue="mage" itemLabel="Mage"/>
+                </h:selectOneMenu>
+            </div>
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="level" class="h4 mb-2">Level</label>
+                </div>
+                <h:inputText type="number" class="form-control" id="level" name="level" value="#{heroCreateBean.model.level}" pt:placeholder="Level"/>
+            </div>
+            <div class="button-holder d-flex justify-content-center">
+                <h:commandButton class="btn btn-info text-white mb-3" type="submit" value="Create Hero" action="#{heroCreateBean.createHero}"/>
+            </div>
+        </h:form>
+    </main>
+    <ui:include src="templates/footer.xhtml"/>
+</h:body>
+</html>

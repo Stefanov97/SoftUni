@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:pt="http://xmlns.jcp.org/jsf/passthrough" xmlns:c="http://java.sun.com/jsp/jstl/core">
+<ui:include src="templates/head.xhtml"/>
+<h:body>
+    <div class="container-fluid">
+        <ui:include src="templates/logged-navbar.xhtml"/>
+        <main>
+            <hr class="my-3"/>
+            <div class="text-center mb-3">
+                <h4 class="text-info">Welcome, #{session.getAttribute("username")}</h4>
+            </div>
+            <hr class="my-3"/>
+            <div class="container">
+                    <ui:repeat var="job" varStatus="status" value="#{homeBean.jobs}">
+                        <h:outputText value="&lt;div class=&quot;row mb-4 d-flex justify-content-around&quot;&gt;"
+                                      escape="false" rendered="#{status.index % 3 == 0}"/>
+                         <div class="col-md-3 d-flex flex-column text-center">
+                        <h:graphicImage library="jpg" name="#{job.sector}.jpg" class="img-thumbnail" width="300" height="300"/>
+                             <h5 class="text-center">#{job.profession}</h5>
+                        <h:link outcome="job-details?id=#{job.id}" class="btn btn-info" value="Details"/>
+                        <h:link outcome="job-delete?id=#{job.id}" class="btn btn-danger" value="Delete" />
+                         </div>
+                        <h:outputText value="&lt;/div&gt;" escape="false" rendered="#{status.index % 3 == 2}"/>
+                    </ui:repeat>
+            </div>
+            <hr class="my-3"/>
+        </main>
+        <ui:include src="templates/footer.xhtml"/>
+    </div>
+</h:body>
+</html>

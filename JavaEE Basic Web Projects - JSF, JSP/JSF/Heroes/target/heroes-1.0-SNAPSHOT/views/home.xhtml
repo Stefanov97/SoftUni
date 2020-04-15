@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core" xmlns:pt="http://xmlns.jcp.org/jsf/passthrough">
+<ui:include src="templates/head.xhtml"/>
+<h:body>
+    <ui:include src="templates/user-navbar.xhtml"/>
+    <main>
+        <div class="text-center mb-3">
+            <h4 class="text-white mt-2">Welcome to the arena, #{session.getAttribute('username')}</h4>
+        </div>
+        <hr class="my-3"/>
+        <div class="container">
+            <div class="row mb-4 d-flex justify-content-around">
+                <ui:repeat value="#{homeBean.models}" var="hero">
+                <div class="col-md-3 d-flex flex-column text-center mb-3">
+                    <h:graphicImage library="img" name="#{hero.clazz}.jpg" class="img-thumb" width="300" height="300"/>
+                    <h5 class="text-white text-center">#{hero.name}</h5>
+                    <h:link outcome="details-hero?id=#{hero.id}" class="btn btn-info mb-2" value="Details"/>
+                    <h:link outcome="delete-hero?id=#{hero.id}" class="btn btn-danger" value="Delete"/>
+                </div>
+                </ui:repeat>
+            </div>
+        </div>
+    </main>
+    <ui:include src="templates/footer.xhtml"/>
+</h:body>
+</html>
