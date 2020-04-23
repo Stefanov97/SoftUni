@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<th:block th:include="~{_shared/head}"/>
+<body>
+<th:block th:include="~{_shared/header}"/>
+<main>
+    <div class="container">
+        <div class="text-center">
+            <h1>Profile</h1>
+            <div class="bg-blur">
+                <div class="row flex-md-row">
+                    <div class="col col-md-6">
+                        <h2>Username</h2>
+                        <h2>[[${session.username}]]</h2>
+                    </div>
+                    <div class="col col-md-6">
+                        <h2>Hero</h2>
+                        <h2>[[${session.heroName}]] - 1</h2>
+                    </div>
+                </div>
+                <div class="row flex-md-row mt-3">
+                    <div class="col col-md-6">
+                        <h2>Email</h2>
+                        <h2>[[${session.email}]]</h2>
+                    </div>
+                    <th:block th:if="${session.heroGender} == 'male'">
+                        <div class="col col-md-6">
+                            <img th:src="@{${'/img/male.jpg'}}" class="border border-secondary"
+                                 height="250" alt="image">
+                        </div>
+                    </th:block>
+                    <th:block th:if="${session.heroGender} == 'female'">
+                        <div class="col col-md-6">
+                            <img th:src="@{${'/img/female.jpg'}}" class="border border-secondary"
+                                 height="250" alt="image">
+                        </div>
+                    </th:block>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<th:block th:include="~{_shared/footer}"/>
+</body>
+</html>

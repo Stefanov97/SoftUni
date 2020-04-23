@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<th:block th:include="~{_shared/head}"/>
+<body>
+<th:block th:include="~{_shared/header}"/>
+<main>
+    <div class="container">
+        <div class="text-center bg-blur">
+            <h1>Hero</h1>
+            <div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3 class="align-middle">[[${hero.name}]]</h3>
+                    </div>
+                    <div class="col-md-2">
+                        <h3 class="align-middle">[[${hero.level}]]</h3>
+                    </div>
+                    <div class="col-md-5">
+                        <img th:if="${items.contains('HELMET')}" src="/img/helmet.jpg" class="mr-5 mb-1" width="100" height="90">
+                        <img th:unless="${items.contains('HELMET')}" class="mr-5 mb-1" width="100" height="90">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img th:if="${hero.gender == 'MALE'}"  src="/img/male.jpg" alt="photo" class="align-middle" height="175"
+                             width="150"/>
+                        <img th:if="${hero.gender == 'FEMALE'}"  src="/img/female.jpg" alt="photo" class="align-middle" height="175"
+                             width="150"/>
+                    </div>
+                    <div class="col-md-2">
+                        <p class="align-content-center">Strength - [[${hero.strength}]]</p>
+                        <p class="align-content-center">Stamina - [[${hero.stamina}]]</p>
+                        <p class="align-content-center">Attack - [[${hero.attack}]]</p>
+                        <p class="align-content-center">Defence - [[${hero.defence}]]</p>
+                    </div>
+                    <div class="col-md-5">
+                            <img th:if="${items.contains('WEAPON')}" src="/img/weapon.jpg" width="100"
+                                 height="150">
+                            <img th:unless="${items.contains('WEAPON')}"  width="100"
+                                 height="150">
+                        <img th:if="${items.contains('PAULDRON')}" src="/img/pauldron.jpg" width="100"
+                             height="150">
+                        <img th:unless="${items.contains('PAULDRON')}" width="100"
+                             height="150">
+                        <img th:if="${items.contains('GAUNTLETS')}" src="/img/gauntlet.jpg" class="mr-5" width="100"
+                             height="150">
+                        <img th:unless="${items.contains('GAUNTLETS')}" class="mr-5" width="100"
+                             height="150">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                    </div>
+                    <div class="col-md-2">
+                    </div>
+                    <div class="col-md-5">
+                        <img th:if="${items.contains('PADS')}" src="/img/pads.jpg" class="mr-5" width="100"
+                             height="150">
+                        <img th:unless="${items.contains('PADS')}" class="mr-5" width="100"
+                             height="150">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<th:block th:include="~{_shared/footer}"/>
+</body>
+</html>

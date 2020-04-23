@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<th:block th:include="~{_shared/head}"/>
+<body>
+<th:block th:include="~{_shared/header}"/>
+<main class="container">
+    <h1 class="text-center">Merchant</h1>
+    <hr class="hr-3"/>
+    <table class="table bg-blur">
+        <thead>
+        <tr>
+            <th scope="col" class="font-weight-bold">Name</th>
+            <th scope="col">Slot</th>
+            <th scope="col">Stamina</th>
+            <th scope="col">Strength</th>
+            <th scope="col">Attack</th>
+            <th scope="col">Defence</th>
+            <th scope="col"></th>
+        </tr>
+        </thead>
+
+        <tbody th:each="item : ${items}" >
+        <tr>
+            <td th:text="${item.name}"></td>
+            <td th:text="${item.slot}"></td>
+            <td th:text="${item.stamina}"></td>
+            <td th:text="${item.strength}"></td>
+            <td th:text="${item.attack}"></td>
+            <td th:text="${item.defence}"></td>
+            <td>
+                    <form th:unless="${heroItems.contains(item.getSlot())}" action="/items/merchant" method="post">
+                        <input type="hidden" name="name" th:value="${item.name}">
+                        <input type="hidden" name="slot" th:value="${item.slot}">
+                        <input type="hidden" name="stamina" th:value="${item.stamina}">
+                        <input type="hidden" name="strength" th:value="${item.strength}">
+                        <input type="hidden" name="attack" th:value="${item.attack}">
+                        <input type="hidden" name="defence" th:value="${item.defence}">
+                        <button class="btn btn-info">Buy</button>
+                    </form>
+            </td>
+        </tr>
+
+        </tbody>
+    </table>
+</main>
+</body>
+<th:block th:include="~{_shared/footer}"/>
+</html>
